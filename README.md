@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Webcric Live Cricket Streaming</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Animate.css CDN -->
@@ -31,6 +29,7 @@
         }
     </style>
 </head>
+
 <body class="min-h-screen py-12 px-4 sm:px-6 lg:px-8">
     <div class="max-w-4xl mx-auto bg-white rounded-2xl shadow-xl p-8 animate__animated animate__fadeIn">
         <h1 class="text-4xl md:text-5xl font-bold text-blue-900 mb-6 text-center section-heading animate__animated animate__fadeInDown" dir="ltr">Webcric Live Cricket Streaming</h1>
